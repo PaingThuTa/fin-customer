@@ -9,6 +9,7 @@
 # testing
 /coverage
 CLAUDE.md
+API_DOCUMENTATION.md
 
 # next.js
 /.next/
